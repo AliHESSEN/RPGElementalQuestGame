@@ -27,7 +27,21 @@ Ingen meny: Det finnes ingen spillmeny i demoen. For å avslutte spillet, må du
 
 ![teqBilde6](https://github.com/user-attachments/assets/dcd55882-2c40-4511-8624-4c8ba44218c8)
 
-![teqBilde7](https://github.com/user-attachments/assets/46d11f3b-0673-46aa-8e7c-8ddaa26173a8)
+
+![teqBilde9](https://github.com/user-attachments/assets/5a4e6b89-b87e-41b4-8b93-f659af20da86)
+
+![teqBIlde11](https://github.com/user-attachments/assets/feae64e1-7474-4b19-b6e8-bc6f1e94979f)
+
+![teqBilde12](https://github.com/user-attachments/assets/177e33c5-b268-4308-b294-47b4b5f81fe5)
+
+
+![teqBilde15](https://github.com/user-attachments/assets/648daa2b-f686-428d-bd87-84e891cf6d65)
+
+![teqBilde16](https://github.com/user-attachments/assets/269f037d-a562-4481-801a-b6af64799706)
+
+
+
+
 
 
 
