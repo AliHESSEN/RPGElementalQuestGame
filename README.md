@@ -27,8 +27,8 @@ Ingen meny: Det finnes ingen spillmeny i demoen. For å avslutte spillet, må du
 
 ![teqBilde6](https://github.com/user-attachments/assets/dcd55882-2c40-4511-8624-4c8ba44218c8)
 
+![teqBilde7](https://github.com/user-attachments/assets/46d11f3b-0673-46aa-8e7c-8ddaa26173a8)
 
-![Uploading teqBilde7.jpg…]()
 
 
 
