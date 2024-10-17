@@ -2,7 +2,6 @@
 
 Dette er en demo av The Elemental Quest, et RPG spill
 
-Kontrollene
 Bevegelse: W, A, S, D
 Interaksjon: Z
 Tilbake: X
